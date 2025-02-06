@@ -1,4 +1,4 @@
-""" this is a crackle pop for my Recurse Center application Feb 2025. This program will:
+"""This program will:
 Print the numbers from 1 to 100 (inclusive).
 HOWEVER, if a number is divisible by 3, it'll print "Crackle".
 If it is divisible by 5, it'll print "Pop"
